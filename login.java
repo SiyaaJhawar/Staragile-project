@@ -1,2 +1,4 @@
-function1{
+function1(){
+}
+function3(){
 }
